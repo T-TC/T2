@@ -8,6 +8,4 @@ git remote add origin ....
 git init 
 git checkout
 git branch
-git commit 
-git add
 ```
